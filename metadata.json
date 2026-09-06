@@ -1,0 +1,10 @@
+{
+  "name": "Novicut",
+  "description": "Professional AI-Powered Video Editing Web Application",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
